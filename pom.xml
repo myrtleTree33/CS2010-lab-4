@@ -27,7 +27,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>TopK</mainClass>
+							<mainClass>TestBinarySearchTree</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

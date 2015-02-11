@@ -1,0 +1,29 @@
+CS2010 Lab 4 Submission
+========================================
+
+A0108165J
+
+TONG Haowen Joel
+
+
+## Installation
+
+To install and generate `jar` with maven, run:
+
+    mvn install
+    
+
+## Output dump
+
+From the given files, the record shows:
+
+    joel@JOEL-UBUNTU-U36JC:~/repos/Lab04g02A0108165J$ java -jar \
+        target/lab4-0.0.1-SNAPSHOT-jar-with-dependencies.jar 
+    Add to beginning and end of list.
+    -1 0 1 35 114 123 145 155 156 168 235 248 263 340 369 394 417 419 429 471 501 
+     Remove first, last, and middle elements.
+    0 1 35 114 123 145 155 156 168 248 263 340 369 394 417 419 429 471 
+    Initial shape as expected
+    After deletePrime(3) shape as expected
+    After deletePrime(2) shape as expected
+    
